@@ -2,7 +2,7 @@
 
 Scripts that will to help with resizing and converting the files wo webp format.
 
-# resize.py
+# resizePng.py
   - Install requirements
     ```
     pip install -r requirements.txt
